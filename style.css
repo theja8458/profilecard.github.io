@@ -121,3 +121,10 @@ body{
     
 
 }
+@media (max-width: 1090px) {
+    .profile-card{
+        margin-left: 400px;
+        margin-top: -800px;
+    }
+    
+}
